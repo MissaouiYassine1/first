@@ -1,3 +1,4 @@
 # first
-First repo 
+First repo \n
 Hello World!
+Hello Everyone!
